@@ -39,3 +39,7 @@ This describe what a system or software should do like user registration and aut
 ### Non-functional requirement
 This describe how the system should perform like peformance, scalabilty, security, usability.
 
+
+## Use Case Diagrams.
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+![alx-booking-uc](https://github.com/user-attachments/assets/13f9a55a-8837-4d20-ac6b-a2cc9d326277)
