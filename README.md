@@ -28,3 +28,14 @@ The requirements are prioritised based on their importance and impact on the pro
 
 - Requirement validation. 
 Reviewing the document requirements with stakeholders to ensure their accuracy and completeness. Define clear acceptance criteria for each requirement.
+
+
+## Types of Requirements.
+
+### Functional reqirement
+This describe what a system or software should do like user registration and authentication, property listing and property search.
+
+
+### Non-functional requirement
+This describe how the system should perform like peformance, scalabilty, security, usability.
+
