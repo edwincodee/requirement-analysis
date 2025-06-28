@@ -44,3 +44,7 @@ This describe how the system should perform like peformance, scalabilty, securit
 Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
 
 ![alx-booking-uc.png](./alx-booking-uc.png)
+
+
+## Acceptance Criteria.
+These are the criteria that a feature must meet in order to be accepted by stakeholders. Acceptance criteria should be specific and measurable. In a booking system, users can receive confirmation emails within two minutes.
